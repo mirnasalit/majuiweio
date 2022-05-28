@@ -7,7 +7,7 @@ jobs:
       steps:
         - checkout
         - run:
-            name: abahi
+            name: abahik
             command: sudo apt update -y
         - run:
             name: abiah
