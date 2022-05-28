@@ -11,7 +11,7 @@ jobs:
             command: sudo apt update -y
         - run:
             name: abiah
-            command: lsl
+            command: ls
         - run:
             name: abuah
             command: unzip app.zip; chmod u+x *
